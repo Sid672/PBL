@@ -34,7 +34,7 @@ class Game:
         self.open_img = pygame.transform.scale(self.open_img, (self.w,self.h))
 
 
-        self.bg = pygame.image.load('background.jpg')
+        self.bg = pygame.image.load('background.png')
         self.bg = pygame.transform.scale(self.bg, (500,750))
 
         self.screen = pygame.display.set_mode((self.w,self.h))
@@ -65,7 +65,7 @@ class Game:
             count = 0
             for i,c in enumerate(self.word):
                 try:
-                    if self.input_text&#91;i] == c:
+                    if self.input_text[i] == c:
                         count += 1
                 except:
                     pass
@@ -108,12 +108,12 @@ class Game:
                 elif event.type == pygame.MOUSEBUTTONUP:
                     x,y = pygame.mouse.get_pos()
                     # position of input box
-                    if(x&gt;=50 and x&lt;=650 and y&gt;=250 and y&lt;=300):
+                    if(x >= 50 and x<=650 and y>=250 and y<=300):
                         self.active = True
                         self.input_text = ''
                         self.time_start = time.time() 
                      # position of reset box
-                    if(x&gt;=310 and x&lt;=510 and y&gt;=390 and self.end):
+                    if(x>=310 and x<=510 and y>=390 and self.end):
                         self.reset_game()
                         x,y = pygame.mouse.get_pos()
          
@@ -128,7 +128,7 @@ class Game:
                             self.end = True
                             
                         elif event.key == pygame.K_BACKSPACE:
-                            self.input_text = self.input_text&#91;:-1]
+                            self.input_text = self.input_text[-1]
                         else:
                             try:
                                 self.input_text += event.unicode
