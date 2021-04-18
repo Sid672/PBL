@@ -4,7 +4,7 @@ Project of BPL 2021
 # Getting started 
 - Install Python.
 
-##### Libraries required
+## Libraries required
 - Install pygame using command line.
 
 ` pip install pygame `
