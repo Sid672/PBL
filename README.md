@@ -27,10 +27,10 @@ After typing the sentence click on "Enter" button and wait..
 Your score will appear on **Time,   accuracy  ,Wpm**
 
 # step 3 :-
-[Image of complete program](https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image2.PNG)
+![Image of complete program](https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image2.PNG)
 
 After running the program,if you want to give another shot then,
-Click on *reset* and you can try again 
+Click on *reset* as you can see in above image and you can try again 
 or
 Exit().
 
