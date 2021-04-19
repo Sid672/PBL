@@ -1,6 +1,6 @@
 # PBL
 [DEMO LINK](https://replit.com/@NishantChaware/PBL-1#Typing_speed.py)
-## Project of BPL 2021
+
 
 ![](https://media.giphy.com/media/ms4FLki9bUiZNeMzyI/giphy.gif)
 
