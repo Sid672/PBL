@@ -7,7 +7,7 @@
 # Getting started 
 Name of the program -- Typing speed. 
 This program is of **Typing skills test**.
-Bascially it is will check that, How much **Time** you take to complete the given sentence
+Bascially it will check that, How much **Time** you take to complete the given sentence
 And also check the **Accuracy** and **Wpm**
 
 # Step 1 :-
