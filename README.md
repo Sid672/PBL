@@ -19,9 +19,13 @@ After that...
 
 
 # Step 2 :-
-you have type the given sentence.
-Inside the the Text box in complete secentene
-![Image of Background] (https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image1.PNG)
+This is the background image of main program
+![Image of Background](https://raw. .com/Sid672/PBL/master/Images/Image1.PNG)
+
+In this step you have to type the above sentence in the bar.
+After typing the sentence click on "Enter" button and wait..
+Your score will appear in **Time,accuracy,Wpm**
+
+# step 3 :-
 
 
-# Step 3 :-
