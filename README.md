@@ -20,9 +20,9 @@ After that...
 
 # Step 2 :-
 This is the background image of main program
-![Image of Background](https://raw. .com/Sid672/PBL/master/Images/Image1.PNG)
+![Image of Background](https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image1.PNG)
 
-In this step you have to type the above sentence in the bar.
+In this step you have to type the above sentence in the text bar as you see in above image.
 After typing the sentence click on "Enter" button and wait..
 Your score will appear in **Time,accuracy,Wpm**
 
