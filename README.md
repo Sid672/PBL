@@ -24,7 +24,7 @@ This is the background image of main program
 
 In this step you have to type the above sentence in the text bar as you see in above image.
 After typing the sentence click on "Enter" button and wait..
-Your score will appear in **Time,accuracy,Wpm**
+Your score will appear on **Time,   accuracy  ,Wpm**
 
 # step 3 :-
 
