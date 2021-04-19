@@ -5,21 +5,23 @@
 ![](https://media.giphy.com/media/ms4FLki9bUiZNeMzyI/giphy.gif)
 
 # Getting started 
-- Install Python.
+Name of the program -- Typing speed. 
+This program is of **Typing skills test**.
+Bascially it is will check that, How much **Time** you take to complete the given sentence
+And also check the **Accuracy** and **Wpm**
 
-## Libraries required
-- Install pygame using command line.
+# Step 1 :-
+## You have to run the program 
+![Image of Home Screen](https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image0.PNG)
 
-` pip install pygame `
+An Home screen will appear
+After that...
 
-- Install sys using command line.
 
-`pip install os-sys`
+# Step 2 :-
+you have type the given sentence.
+Inside the the Text box in complete secenten
+https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image1.PNG
 
-- Install time using command line.
 
-`pip install times`
-
-- Install random using command line.
-
-`pip install random2`
+# Step 3 :-
