@@ -20,8 +20,8 @@ After that...
 
 # Step 2 :-
 you have type the given sentence.
-Inside the the Text box in complete secenten
-https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image1.PNG
+Inside the the Text box in complete secentene
+![Image of Background] (https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image1.PNG)
 
 
 # Step 3 :-
