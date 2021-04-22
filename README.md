@@ -5,13 +5,12 @@
 ![](https://media.giphy.com/media/ms4FLki9bUiZNeMzyI/giphy.gif)
 
 # Getting started 
-Name of the program -- Typing speed. 
+Name of the program: Typing speed. 
 This program is of **Typing skills test**.
 Bascially it will check that, How much **Time** you take to complete the given sentence
 And also check the **Accuracy** and **Wpm**
 
 # Step 1 :-
-## You have to run the program 
 ![Image of Home Screen](https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image0.PNG)
 
 An Home screen will appear
@@ -19,7 +18,6 @@ After that...
 
 
 # Step 2 :-
-This is the background image of main program
 ![Image of Background](https://raw.githubusercontent.com/Sid672/PBL/master/Images/Image1.PNG)
 
 In this step you have to type the above sentence in the text bar as you see in above image.
